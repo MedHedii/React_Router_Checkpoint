@@ -1,0 +1,23 @@
+div.containerr {
+    display: flex;
+    justify-content: space-around !important;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: rgb(236, 236, 236);
+    padding: 25px 0;
+    background-color: #2b2b2b;
+}
+input.inpt {
+    width: 30%;
+    padding: 0 20px;
+    border: solid;
+    background-color: #222222;
+    border-width: 0.01px;
+    color: rgb(236, 222, 158);
+    opacity: 1;
+}
+h3 {
+    color: rgb(189, 221, 230);
+    margin: 0;
+    padding: 0;
+}
