@@ -17,6 +17,7 @@ function App() {
             posterUrl:
                 "https://media.senscritique.com/media/000016585625/source_big/Your_Name.jpg",
             rate: 5,
+            trailer: "https://www.youtube.com/embed/xU47nhruN-Q?start=8",
             id: 1,
         },
         {
@@ -26,6 +27,7 @@ function App() {
             posterUrl:
                 "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
             rate: 5,
+            trailer: "https://www.youtube.com/embed/nfK6UgLra7g?start=1",
             id: 2,
         },
         {
@@ -35,6 +37,7 @@ function App() {
             posterUrl:
                 "https://media1.woopic.com/api/v1/images/174%2Fcinemovies%2F20b%2F868%2F09e250563c563466d18e05bd57%2Fmovies-270440-21671107.jpg?format=822x700&quality=85",
             rate: 3,
+            trailer: "https://www.youtube.com/embed/Q6iK6DjV_iE?start=1",
             id: 3,
         },
         {
@@ -44,6 +47,7 @@ function App() {
             posterUrl:
                 "https://fr.web.img3.acsta.net/pictures/20/09/14/10/31/4875617.jpg",
             rate: 5,
+            trailer: "https://www.youtube.com/embed/pkKu9hLT-t8?start=1",
             id: 4,
         },
         {
@@ -53,6 +57,7 @@ function App() {
             posterUrl:
                 "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967424103184295SAO_Small_hq.jpg",
             rate: 4,
+            trailer: "https://www.youtube.com/embed/Z7oiq9LDm8k?start=2",
             id: 5,
         },
         {
@@ -62,6 +67,7 @@ function App() {
             posterUrl:
                 "https://upload.wikimedia.org/wikipedia/en/b/b9/GTO_volume_1.jpg",
             rate: 5,
+            trailer: "https://www.youtube.com/embed/9OkHY-djo_U",
             id: 6,
         },
     ]);
